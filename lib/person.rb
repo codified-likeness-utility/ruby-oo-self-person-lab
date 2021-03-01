@@ -87,4 +87,4 @@ class Person
 
 end
 
-friend = Person.new("friend")
+# friend = Person.new("friend")
